@@ -1,0 +1,49 @@
+p {
+    color: #052a7a;
+}
+
+#Date {
+    font-size:20px;
+}
+
+#Hi {
+    font-size:40px;
+}
+
+.Square {
+    height:200px;
+    width:200px;
+    position: absolute;
+    top:200px;
+    left:268px;
+    background-color: #ff0000;
+}
+
+#blue {
+    border:10px solid black;
+    height:200px;
+    width:200px;
+    position: absolute;
+    top:200px;
+    left:268px;
+    background-color: rgb(45, 134, 218);
+}
+
+.Square {
+    height:150px;
+    width:150px;
+    position: absolute;
+    top:250px;
+    left:318px;
+    background-color: black;
+}
+
+#black {
+    height:150px;
+    width:150px;
+    position: absolute;
+    top:235px;
+    left:303px;
+    background-color: black;
+}
+
